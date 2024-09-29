@@ -1,0 +1,5 @@
+currently testing
+
+goal: creating my own personal film streaming website, no ads, no bullshit
+already found api
+already found hosting (i think, hopefully it works)
